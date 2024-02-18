@@ -1,0 +1,335 @@
+[{
+  "id": "1",
+  "vendorID": 574839250743,
+  "name": "Great Clips Haircuts",
+  "description": "Your Go-To Haircare Destination",
+  "insuranceType": "UnitedHealthcare",
+  "specialty": ["Radiology"],
+  "rating": 4.0,
+  "address": "9720 Coit Rd Suite 230",
+  "lat": 46.87190499528364,
+  "lng": 28.54937769418778,
+  "createdAt": "2022-04-16T12:03:33.225Z",
+  "updatedAt": "2022-04-16T12:05:12.826Z",
+  "image": "https://dynl.mktgcdn.com/p/pLXhMkveoKX0Oa2in3Vh8ZeeK3rOMnPpfYV1HrLh4Cw/3144x3623.jpg",
+  "services": [
+    {
+      "name": "Mens Haircut",
+      "id": 1,
+      "serviceID": 34123423414,
+      "description": "Do fades, buzzcuts, middle parts",
+      "serviceFee": 20.0,
+      "minServiceTime": 10,
+      "maxServiceTime": 20,
+      "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+    },
+    {
+      "name": "Women's Haircut",
+      "id": 2,
+      "serviceID": 324523432,
+      "description": "Do layers, bangs, and trims",
+      "serviceFee": 20.0,
+      "minServiceTime": 10,
+      "maxServiceTime": 20,
+      "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+    },
+    {
+      "name": "Shampoo",
+      "id": 3,
+      "serviceID": 8768866,
+      "description": "Thorough shampooing services with conditioning, alongside massage.",
+      "serviceFee": 10.0,
+      "minServiceTime": 5,
+      "maxServiceTime": 10,
+      "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+    },
+    {
+      "name": "Hair Dye",
+      "id": 4,
+      "serviceID": 245654245,
+      "description": "Permanent/Temporary recoloring of the hair",
+      "serviceFee": 15.0,
+      "minServiceTime": 15,
+      "maxServiceTime": 25,
+      "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+    },
+    {
+      "name": "Beard",
+      "id": 5,
+      "serviceID": 9879767967,
+      "description": "Trimming and styling of mens' beards",
+      "serviceFee": 10.0,
+      "minServiceTime": 10,
+      "maxServiceTime": 15,
+      "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+    }
+  ]
+}, {
+    "id": "2",
+    "vendorID": 27247477,
+    "name": "Massage Envy",
+    "description": "Relax, Rejuvenate, and Restore Your Well-being",
+    "insuranceType": "Blue Cross Blue Shield",
+    "specialty": "Gynecology",
+    "rating": 4.0,
+    "address": "3685 Preston Rd Suite 159, Frisco, TX 75034",
+    "lat": 33.104523,
+    "lng": -96.810287,
+    "createdAt": "2022-04-16T12:03:33.225Z",
+    "updatedAt": "2022-04-16T12:05:12.826Z",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/pleasantprairiewi/Massage-Envy-front-of-store-5e99e7745056a34_5e99e969-5056-a348-3ae53de80227c5b9.jpg",
+    "services": [
+      {
+        "name": "Swedish Massage",
+        "id": 1,
+        "serviceID": 322323232,
+        "description": "A relaxing, full-body massage using long, smooth strokes to ease tension and promote relaxation",
+        "serviceFee": 60.0,
+        "minServiceTime": 60,
+        "maxServiceTime": 90,
+        "image": "https://www.massageenvy.com/content/dam/massage-envy/services-category/ME_ServiceCategory_SwedishMassage_1200x628.jpg"
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "id": 2,
+        "serviceID": 54354535345,
+        "description": "A firm-pressure therapeutic massage that targets knots and tension in the deeper layers of muscles and connective tissue",
+        "serviceFee": 70.0,
+        "minServiceTime": 60,
+        "maxServiceTime": 90,
+        "image": "https://www.massageenvy.com/content/dam/massage-envy/services-category/ME_ServiceCategory_DeepTissueMassage_1200x628.jpg"
+      },
+      {
+        "name": "Hot Stone Envy",
+        "id": 3,
+        "serviceID": 66445343432,
+        "description": "A soothing massage with heated stones that helps loosen tight muscles and improve circulation",
+        "serviceFee": 85.0,
+        "minServiceTime": 90,
+        "maxServiceTime": 120,
+        "image": "https://www.massageenvy.com/content/dam/massage-envy/services-category/ME_ServiceCategory_HotStoneMassage_1200x628.jpg"
+      },
+      {
+        "name": "AromaTherapy",
+        "id": 4,
+        "serviceID": 6546546453741,
+        "description": "Essential oils are used in combination with massage to enhance the benefits of the massage. Relax, energize, balance, and more.",
+        "serviceFee": 20.0,
+        "minServiceTime": 15,
+        "maxServiceTime": 30,
+        "image": "https://www.massageenvy.com/content/dam/massage-envy/services-category/ME_ServiceCategory_HotStoneMassage_1200x628.jpg"
+      },
+      {
+        "name": "Reflexology",
+        "id": 5,
+        "serviceID": 876856445343578,
+        "description": "Pressure is applied to specific points on the feet, hands, and ears to promote relaxation and improve overall health.",
+        "serviceFee": 40.0,
+        "minServiceTime": 30,
+        "maxServiceTime": 60,
+        "image": "https://www.massageenvy.com/content/dam/massage-envy/services-category/ME_ServiceCategory_HotStoneMassage_1200x628.jpg"
+      }
+    ]
+  }, {
+      "id": "3",
+      "vendorID": 47284728472,
+      "name": "Everclean Cleaning Services",
+      "description": "Professional Cleaning Solutions for a Spotless Home",
+      "insuranceType": "Medicare",
+      "specialty": "Laboratory Services",
+      "rating": 4.5,
+      "address":"3685 Preston Rd Suite 159, Frisco, TX 75034",
+      "lat":33.104523,
+      "lng":28.54937769418778,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0BCb4pg3t9MLaLGBke2PhA/348s.jpg",
+      "services": [
+      {
+      "name": "Residential Cleaning",
+      "id": 1,
+      "serviceID": 434342673,
+      "description": "Complete house cleaning, including dusting, vacuuming, mopping, and wiping of surfaces. Cleaning supplies are provided.",
+      "serviceFee": 80.0,
+      "minServiceTime": 60,
+      "maxServiceTime": 120,
+      "image": "https://images.unsplash.com/photo-1571173571877-b19a74f677df"
+      },
+      {
+      "name": "Commercial Cleaning",
+      "id": 2,
+      "serviceID": 856756546546,
+      "description": "Janitorial services for offices and businesses, including trash removal, restroom cleaning, and surface disinfection. Cleaning supplies are provided.",
+      "serviceFee": 120.0,
+      "minServiceTime": 90,
+      "maxServiceTime": 180,
+      "image": "https://images.unsplash.com/photo-1584028509343-b3a46e0f6961"
+      },
+      {
+      "name": "Carpet Cleaning",
+      "id": 3,
+      "serviceID": 86575658697,
+      "description": "Deep cleaning of carpets, including stain removal and deodorization. Cleaning supplies and equipment are provided.",
+      "serviceFee": 50.0,
+      "minServiceTime": 45,
+      "maxServiceTime": 90,
+      "image": "https://images.unsplash.com/photo-1599568588689-87204f2a6a1a"
+      },
+      {
+      "name": "Window Cleaning",
+      "id": 4,
+      "serviceID": 767675784,
+      "description": "Cleaning of windows, glass doors, and mirrors, including removal of smudges, streaks, and fingerprints. Cleaning supplies and equipment are provided.",
+      "serviceFee": 30.0,
+      "minServiceTime": 30,
+      "maxServiceTime": 60,
+      "image": "https://images.unsplash.com/photo-1599245146245-b59b568ea380"
+      },
+      {
+      "name": "Deep Cleaning",
+      "id": 5,
+      "serviceID": 134654345,
+      "description": "Thorough cleaning of kitchens and bathrooms, including scrubbing of floors, walls, and fixtures. Cleaning supplies are provided.",
+      "serviceFee": 100.0,
+      "minServiceTime": 90,
+      "maxServiceTime": 180,
+      "image": "https://images.unsplash.com/photo-1555529669-212a4d4b7730"
+      }
+      ]
+      },{
+        "id": "4",
+        "vendorID":78757845387939,
+        "name": "Rover Dog Services",
+        "description": "Trusted Pet Care Services for Your Furry Friends",
+        "insuranceType": "Medicade",
+        "specialty": "Radiology",
+        "rating": 4.0,
+        "address":"3685 Preston Rd Suite 159, Frisco, TX 75034",
+        "lat":33.104523,
+        "lng":-96.810287,
+        "createdAt": "2022-04-16T12:03:33.225Z",
+        "updatedAt": "2022-04-16T12:05:12.826Z",
+        "image": "https://store.rover.com/cdn/shop/products/dog-walking-promo-cards-services-listed-250-cards-business-promotional-materials-rover-store-673335_1400x.jpg?v=1631738164",
+        "services": [
+          {
+            "name": "Dog Walking",
+            "id": 1,
+            "serviceID": 151516335,
+            "description": "30-minute walks around the neighborhood",
+            "serviceFee": 20.0,
+            "minServiceTime": 30,
+            "maxServiceTime": 60,
+            "image": "https://www.rover.com/blog/wp-content/uploads/2020/01/Woman-walking-dog-1200x628-facebook-1200x628.jpg"
+          },
+          {
+            "name": "Pet Sitting",
+            "id": 2,
+            "serviceID": 28498249592,
+            "description": "In-home pet sitting for dogs and cats",
+            "serviceFee": 30.0,
+            "minServiceTime": 60,
+            "maxServiceTime": 120,
+            "image": "https://www.rover.com/blog/wp-content/uploads/2019/10/What-to-Expect-When-You%E2%80%99re-Dog-Sitting-1200x628.jpg"
+          },
+          {
+            "name": "Dog Boarding",
+            "id": 3,
+            "serviceID": 4354233243523452,
+            "description": "Overnight stays at a dog-friendly home",
+            "serviceFee": 50.0,
+            "minServiceTime": 24,
+            "maxServiceTime": 72,
+            "image": "https://www.rover.com/blog/wp-content/uploads/2021/02/dog-boarding-services.jpg"
+          },
+          {
+            "name": "Doggy Day Care",
+            "id": 4,
+            "serviceID": 445432542625,
+            "description": "Daytime care and playtime at a dog-friendly home",
+            "serviceFee": 35.0,
+            "minServiceTime": 6,
+            "maxServiceTime": 10,
+            "image": "https://www.rover.com/blog/wp-content/uploads/2020/03/Best-Dog-Daycares-in-Toronto-1200x628-facebook.jpg"
+          },
+          {
+            "name": "Pet Grooming",
+            "id": 5,
+            "serviceID": 42545623464654675,
+            "description": "Bathing, brushing, and nail trimming services for dogs",
+            "serviceFee": 25.0,
+            "minServiceTime": 60,
+            "maxServiceTime": 120,
+            "image": "https://www.rover.com/blog/wp-content/uploads/2020/08/Grooming-at-Home-1200x628-Facebook.jpg"
+          }
+        ]
+      },{
+        "id": "5",
+        "vendorID": 45693842,
+        "name": "Saahil's Haircuts",
+        "description": "Haircuts for you",
+        "insuranceType": "Medicare",
+        "specialty": "Pediatrics",
+        "specialties": ["Pediatrics", "Radiology", "Gynecology", "Laboratory Services"],
+
+        "rating": 4.0,
+        "address":"3685 Preston Rd Suite 159, Frisco, TX 75034",
+        "lat":33.104523,
+        "lng":-96.810287,
+        "createdAt": "2022-04-16T12:03:33.225Z",
+        "updatedAt": "2022-04-16T12:05:12.826Z",
+        "image": "https://www.ties.com/blog/wp-content/uploads/2019/04/69c3ae4pmu.jpg",
+        "services": [
+          {
+            "name": "Mens Haircut",
+            "id": 1,
+            "serviceID": 56558625462,
+            "description": "Do fades, buzzcuts, middle parts",
+            "serviceFee": 20.0,
+            "minServiceTime": 10,
+            "maxServiceTime": 20,
+            "image": "https://greatclips.com/-/media/great-clips/dotcom/image/stories/perfect-haircut/questionsforhairstylist-trim.jpg?la=en&hash=C5C451C355E0E9385E76BFF0E57385CA1A3E256E"
+          },
+          {
+            "name": "Women's Haircut",
+            "id": 2,
+            "serviceID": 979989946,
+            "description": "Do layers, bangs, and trims",
+            "serviceFee": 20.0,
+            "minServiceTime": 10,
+            "maxServiceTime": 20,
+            "image": "https://st2.depositphotos.com/1518767/8173/i/950/depositphotos_81733224-stock-photo-woman-getting-hair-cut.jpg"
+          },
+          {
+            "name": "Shampoo",
+            "id": 3,
+            "serviceID": 9795612672,
+            "description": "Thorough shampooing services with conditioning, alongside massage.",
+            "serviceFee": 10.0,
+            "minServiceTime": 5,
+            "maxServiceTime": 10,
+            "image": "https://www.healthline.com/hlcmsresource/images/AN_images/AN316-Couple-having-a-hair-treatment-732x549-thumb.jpg"
+          },
+          {
+            "name": "Hair Dye",
+            "id": 4,
+            "serviceID": 15167854,
+            "description": "Permanent/Temporary recoloring of the hair",
+            "serviceFee": 15.0,
+            "minServiceTime": 15,
+            "maxServiceTime": 25,
+            "image": "https://media.istockphoto.com/photos/hair-coloring-process-picture-id1138688477?k=20&m=1138688477&s=612x612&w=0&h=Z_yeU6D9LAKntAujfLJQ6QsVwNGsJGn0Zm88Th2cKbc="
+          },
+          {
+            "name": "Beard",
+            "id": 5,
+            "serviceID": 548623879,
+            "description": "Trimming and styling of mens' beards",
+            "serviceFee": 10.0,
+            "minServiceTime": 10,
+            "maxServiceTime": 15,
+            "image": "https://images.unsplash.com/photo-1560243563-30defe8c5123?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhcmRzJTIwYmVhcmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+          }
+        ]
+      }]
+
+
